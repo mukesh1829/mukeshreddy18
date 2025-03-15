@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and all t
 
 ### 📫 Connect with Me
 - GitHub: [github.com/mukesh1829](https://github.com/mukesh1829)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/mukesh-reddy-05444a312)
 - Twitter: [twitter.com/yourhandle](https://twitter.com/@029_mukesh)
 
 Thanks for stopping by! Happy coding! 🚀
