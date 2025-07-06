@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and all t
 ### 🚀 About Me
 - 💻 I'm a developer who loves to build and experiment with new technologies.
 - ⚡ Cricket Enthusiast | Big Fan of Virat Kohli 🏏
--  ⚽ Football  
+-  ⚽ Football  Enthusiast |Biggest Fan of CR7
 -   - 🏗️ Always exploring new frameworks and tools.
 
 ### 🔧 Technologies & Tools
